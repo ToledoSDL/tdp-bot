@@ -1,0 +1,25 @@
+{
+    "prefix": "!",
+    "cor": "#36393f",
+    "token": "NzA4Mjg5MTQ3MDAwODQ4NDU4.Xrh3VQ.Kawb-6UZsvi2grD_rLPZ3ftA1yI",
+	"db": "mongodb+srv://bot:VTBqGf3H3NmI1UuK@cluster0-keppl.gcp.mongodb.net/test?retryWrites=true&w=majority", 
+    "ownerID": "505140298888904716",
+    "reportsChannel": "「🚫」denuncias",
+    "greetingChannel": "706838534132072478",
+    "guildID": "693202263434592386",
+    "rulesChannel": "706550854152355911",
+    "logChannel": "707999146283499591",
+    "punishChannel": "701581412951785522",
+    "youtube": "mk15a6fr10ld441vpivsqiowylci3r",
+    "newsChannel": "706550847617761372",
+    "partnerChannel": "701581377832747008",
+    "command": {
+        "prefix": "!",
+        "cooldown": 3000
+    },
+    "channel": {
+        "commands": "706550865644879952",
+        "tickets": "708044734785912903",
+        "greeting": "706838534132072478"
+    }
+}
