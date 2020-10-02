@@ -33,7 +33,7 @@
     "ffmpeg-static": "^4.2.1",
     "fortnite": "^4.3.2",
     "fs": "0.0.1-security",
-    "fs-nextra": "^0.4.7",
+    "fs-nextra": "^0.5.1",
     "gamedig": "^2.0.20",
     "gifencoder": "^2.0.1",
     "imgur": "^0.3.1",
