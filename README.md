@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-# TDP-BOT
-=======
-## TDP
-Esse é o repositório do bot Segurança, criado para o servidor The Depression RP no discord.
+## Eu nem sei que repositório é esse, nunca mexi nesse bot
